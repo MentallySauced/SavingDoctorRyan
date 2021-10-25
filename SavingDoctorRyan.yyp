@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"Main_character_jump_up_left0022","path":"sprites/Main_character_jump_up_left0022/Main_character_jump_up_left0022.yy",},"order":22,},
-    {"id":{"name":"obj_syringe","path":"objects/obj_syringe/obj_syringe.yy",},"order":2,},
     {"id":{"name":"Main_character_attack_right0007","path":"sprites/Main_character_attack_right0007/Main_character_attack_right0007.yy",},"order":7,},
     {"id":{"name":"Main_character_jump_up_right0017","path":"sprites/Main_character_jump_up_right0017/Main_character_jump_up_right0017.yy",},"order":17,},
     {"id":{"name":"Main_character_jump_up_left0009","path":"sprites/Main_character_jump_up_left0009/Main_character_jump_up_left0009.yy",},"order":9,},
