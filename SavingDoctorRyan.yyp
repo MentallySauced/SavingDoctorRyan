@@ -68,6 +68,7 @@
     {"id":{"name":"Main_character_jump_up_right0012","path":"sprites/Main_character_jump_up_right0012/Main_character_jump_up_right0012.yy",},"order":12,},
     {"id":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},"order":1,},
     {"id":{"name":"Main_character_attack_right0006","path":"sprites/Main_character_attack_right0006/Main_character_attack_right0006.yy",},"order":6,},
+    {"id":{"name":"spr_start_screen","path":"sprites/spr_start_screen/spr_start_screen.yy",},"order":15,},
     {"id":{"name":"Main_character_walk_left0015","path":"sprites/Main_character_walk_left0015/Main_character_walk_left0015.yy",},"order":15,},
     {"id":{"name":"Main_character_jump_up_left0006","path":"sprites/Main_character_jump_up_left0006/Main_character_jump_up_left0006.yy",},"order":6,},
     {"id":{"name":"Main_character_jump_up_right","path":"sprites/Main_character_jump_up_right/Main_character_jump_up_right.yy",},"order":24,},
