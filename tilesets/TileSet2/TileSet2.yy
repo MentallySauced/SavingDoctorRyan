@@ -17,7 +17,7 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "out_columns": 13,
-  "tile_count": 192,
+  "tile_count": 160,
   "autoTileSets": [],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -187,9 +187,16 @@
     "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
-    "SerialiseWidth": 0,
-    "SerialiseHeight": 0,
-    "TileSerialiseData": [],
+    "SerialiseWidth": 2,
+    "SerialiseHeight": 3,
+    "TileSerialiseData": [
+      22,
+      23,
+      38,
+      39,
+      54,
+      55,
+    ],
   },
   "parent": {
     "name": "Tile Sets",

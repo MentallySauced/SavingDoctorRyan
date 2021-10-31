@@ -3,14 +3,8 @@
 
 if (vspeed >= 0 and obj_player.y < other.y) {
 	instance_destroy(other);
-	vspeed = -4;
+	vspeed = -5;
 	
 } else {
-	if(lives == 0) {
-		instance_destroy();
-	} else {
-		lives -= 1;
-		speed = -8;
-		alarm[0] = 5;
-	}
+	instance_destroy();
 }

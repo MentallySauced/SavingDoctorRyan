@@ -22,6 +22,11 @@ if (keyboard_check(vk_up)) {
 	}
 }
 
+
+if (keyboard_check_pressed(vk_space)){
+	instance_create_layer(x, y, "Instances", obj_hitbox);
+}
+
 // Gravity
 	if (!instance_place(x, y+1, obj_collision)) {
 		gravity = .5;
@@ -30,4 +35,5 @@ if (keyboard_check(vk_up)) {
 	}
 	
 	// Setting a max value for vspeed
-	vspeed = min(vspeed, 12);
+	vspeed = min(vspeed, 15);
+	
