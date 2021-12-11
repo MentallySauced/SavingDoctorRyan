@@ -120,6 +120,7 @@
     {"id":{"name":"Main_character_walk_left0009","path":"sprites/Main_character_walk_left0009/Main_character_walk_left0009.yy",},"order":9,},
     {"id":{"name":"spr_room_exit","path":"sprites/spr_room_exit/spr_room_exit.yy",},"order":21,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":20,},
+    {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},"order":13,},
     {"id":{"name":"Main_character_jump_up_left0015","path":"sprites/Main_character_jump_up_left0015/Main_character_jump_up_left0015.yy",},"order":15,},
     {"id":{"name":"Main_character_jump_up_left0011","path":"sprites/Main_character_jump_up_left0011/Main_character_jump_up_left0011.yy",},"order":11,},
     {"id":{"name":"Main_character_jump_up_left0023","path":"sprites/Main_character_jump_up_left0023/Main_character_jump_up_left0023.yy",},"order":23,},
@@ -194,7 +195,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "SavingDoctorRyan",
